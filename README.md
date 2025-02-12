@@ -62,3 +62,24 @@ Delete an Interview: Users can delete an interview after confirming their action
 
   # Date and Time Validation
 Another challenge was implementing robust validation for date and time selection. Ensuring that users cannot schedule interviews in the past and handling edge cases, like selecting the current date and time
+
+
+Installation
+Clone the repository:
+
+git clone https://github.com/shiranjeeth/Calendar-app.git
+
+# Navigate into the project directory:
+
+ - cd client
+
+ # Install the dependencies:
+
+- npm install
+
+ # Run the development server:
+
+- npm run dev
+
+# GitHub Link
+ - [ https://github.com/shiranjeeth/Calendar-app ]
